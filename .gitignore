@@ -1,0 +1,37 @@
+# Gradle / build
+.gradle/
+build/
+local.properties
+.kotlin/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Paylasim (Releases-de saxlanir, repo-da yox)
+*.apk
+platform-tools/
+*.exe
+*.dll
+
+# Imza acarlari (hec vaxt repo-ya dusmesin)
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# API acarlari, sifreler, gizli melumatlar
+.env
+.env.*
+*.env
+secrets.properties
+secrets.json
+api_keys.*
+apikey*
+credentials*
+service-account*.json
+google-services.json
+*.pem
+*.key
+*.p12
