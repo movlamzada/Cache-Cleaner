@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cache Cleaner</string>
+    <string name="accessibility_description">Yalnız tətbiqlərin keşini təmizləmək üçün Ayarlar səhifəsində \"Keşi təmizlə\" düyməsinə basır. Hesab və şəxsi məlumatlara toxunmur.</string>
+</resources>
