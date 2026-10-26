@@ -15,9 +15,9 @@ Rootsuz Android tətbiqi. **Əlçatanlıq xidməti** vasitəsilə cihazdakı bü
 
 ## 📥 Yükləmə
 
-**Releases** bölməsindən `app-debug.apk` faylını yükləyin.
+[Releases](https://github.com/movlamzada/Cache-Cleaner/releases) bölməsindən `app-debug.apk` faylını yükləyin.
 
-Repo-dakı `install.bat` (Windows) və `install.sh` (Mac/Linux) faylları quraşdırmanı asanlaşdırır.
+Repo-dakı [install.bat](https://github.com/movlamzada/Cache-Cleaner/blob/main/install.bat) (Windows) və [install.sh](https://github.com/movlamzada/Cache-Cleaner/blob/main/install.sh) (Mac/Linux) faylları quraşdırmanı asanlaşdırır.
 
 ---
 
